@@ -3,4 +3,3 @@ matplotlib
 pandas
 ipywidgets
 ipympl
-mpl_toolkits
